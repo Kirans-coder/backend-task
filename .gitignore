@@ -1,0 +1,27 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.swo
+
+# Environment variables
+.env
+
+# Database files (if you were using one)
+*.sqlite
+*.db
+
+# Temporary files created by the application
+/tmp/
+*.log
+*.csv
